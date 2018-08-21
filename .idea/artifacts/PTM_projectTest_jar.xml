@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PTM_projectTest:jar">
+    <output-path>$PROJECT_DIR$/src/test</output-path>
+    <root id="archive" name="PTM_projectTest.jar">
+      <element id="module-output" name="PTM_projectTest" />
+    </root>
+  </artifact>
+</component>
